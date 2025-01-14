@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dinamik Matematik</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: url('https://kayraberkk.github.io/altinoran/background.jpg') no-repeat center center fixed;
+            background-size: cover;
+            color: #333;
+        }
+        header {
+            display: flex;
+            justify-content: center;
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 10px;
+        }
+        header nav {
+            display: flex;
+        }
+        header nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #ffffff;
+            font-weight: bold;
+        }
+        header nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            margin: 20px;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.9);
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="./pisagor.html" target="_self">Pisagor Bağıntısı</a>
+            <a href="./ispatlar.html" target="_self">İspatlar</a>
+            <a href="./pisagor-hakkinda.html" target="_self">Pisagor Hakkında</a>
+            <a href="./mezrada-pisagor.html" target="_self">Mezrada Pisagor</a>
+        </nav>
+    </header>
+    <main>
+        <h1>Kazanım</h1>
+        <p>
+            <strong>Sınıf Düzeyi:</strong> 8<br>
+            <strong>Kazanımlar:</strong><br>
+            M.8.3.1.5. Pisagor bağıntısını oluşturur, ilgili problemleri çözer.
+        </p>
+        <ul>
+            <li>Pisagor bağıntısının gerçek hayat uygulamalarına yönelik çalışmalara yer verilir.</li>
+            <li>Koordinat düzlemi üzerinde verilen iki nokta arasındaki uzaklığı Pisagor bağıntısını kullanarak bulma çalışmalarına yer verilir. İki nokta arasındaki uzaklık formülü verilmez.</li>
+            <li>Kenar uzunlukları verilen bir üçgenin dik üçgen olup olmadığına Pisagor bağıntısını kullanarak karar vermeye yönelik çalışmalar yapılır.</li>
+        </ul>
+    </main>
+</body>
+</html>
