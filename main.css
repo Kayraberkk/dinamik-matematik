@@ -208,6 +208,7 @@
   .sidebar .profile-details .job {
     font-size: 12px;
   }
+
   .home-section {
     position: relative;
     background: rgb(196,217,255);
@@ -215,8 +216,9 @@
     left: 260px;
     width: calc(100% - 260px);
     transition: all 0.5s ease;
-    min-height:100vh;
+    min-height: 100vh;
   }
+
   .sidebar.close ~ .home-section {
     left: 78px;
     width: calc(100% - 78px);
