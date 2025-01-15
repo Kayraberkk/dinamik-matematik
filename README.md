@@ -1,0 +1,2 @@
+# dinamik-matematik
+Dinamik Matematik
