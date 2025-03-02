@@ -85,3 +85,5 @@ var html = `<ul class="nav-links">
       </ul>`;
 
 document.getElementById("nav").innerHTML = html;
+
+console.log('host', host)
