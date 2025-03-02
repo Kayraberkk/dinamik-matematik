@@ -1,7 +1,7 @@
 const host =
   location.hostname === "localhost" || location.hostname === "127.0.0.1"
     ? "/"
-    : "/dinamik-matematik";
+    : "/dinamik-matematik/";
 
 var html = `<ul class="nav-links">
         <li>
