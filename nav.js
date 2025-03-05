@@ -8,7 +8,7 @@ const base = "https://kayraberkk.github.io/dinamik-matematik/";
 const baseTag = document.getElementById("baseTag");
 
 function changeBaseTag() {
-  if (location.hostname != "localhost" && location.hostname != "127.0.0.1") {
+  if (location.hostname != "localhost" && location.hostname != "127.0.0.1" && baseTag != null) {
     baseTag.href = base;
   }
 }
