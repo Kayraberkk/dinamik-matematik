@@ -1,35 +1,35 @@
 var applet1 = new GGBApplet(
-  { filename: "./ggb/ispat1.ggb", showtoolbar: true },
+  { filename: "pisagor/ggb/ispat1.ggb", showtoolbar: true },
   true
 );
 
 var applet2 = new GGBApplet(
-  { filename: "./ggb/ispat2.ggb", showtoolbar: true },
+  { filename: "pisagor/ggb/ispat2.ggb", showtoolbar: true },
   true
 );
 
 var applet3 = new GGBApplet(
-  { filename: "./ggb/ispat3.ggb", showtoolbar: true },
+  { filename: "pisagor/ggb/ispat3.ggb", showtoolbar: true },
   true
 );
 
 var applet4 = new GGBApplet(
-  { filename: "./ggb/ispat4.ggb", showtoolbar: true },
+  { filename: "pisagor/ggb/ispat4.ggb", showtoolbar: true },
   true
 );
 
 var applet5 = new GGBApplet(
-  { filename: "./ggb/ispat5.ggb", showtoolbar: true },
+  { filename: "pisagor/ggb/ispat5.ggb", showtoolbar: true },
   true
 );
 
 var applet6 = new GGBApplet(
-  { filename: "./ggb/ispat6.ggb", showtoolbar: true },
+  { filename: "pisagor/ggb/ispat6.ggb", showtoolbar: true },
   true
 );
 
 var applet7 = new GGBApplet(
-  { filename: "./ggb/ispat7.ggb", showtoolbar: true },
+  { filename: "pisagor/ggb/ispat7.ggb", showtoolbar: true },
   true
 );
 
