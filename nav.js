@@ -13,7 +13,10 @@ function changeBaseTag() {
   }
 }
 
-changeBaseTag();
+window.onload = function(e){ 
+    console.log('1',baseTag )
+    changeBaseTag() 
+}
 
 var html = `<ul  class="nav-links">
         <li>
